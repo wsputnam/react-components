@@ -1,4 +1,3 @@
-// TODO
 class GroceryListItem extends React.Component {
   constructor(props) {
     super(props);
